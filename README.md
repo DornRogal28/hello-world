@@ -1,1 +1,1 @@
-# hello-world
+Jestem Wojciech. Studiuje Automatykę w Gdańsku. 
